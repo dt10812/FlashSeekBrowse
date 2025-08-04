@@ -3,7 +3,7 @@
 **FlashSeekBrowse** is a fast, lightweight macOS browser written in Swift using `WKWebView`.  
 It features privacy protections, persistent tabs, a custom UI, and Sparkle-powered auto-updates.
 
-![Icon](icon-64.png)
+![Icon](Icon-256.png)
 
 ---
 
